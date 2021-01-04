@@ -73,6 +73,9 @@ section{
 footer p{
     text-align: center;
     background-color: orange;
+    margin-bottom: 0px;
 }
-
+footer{
+    display: block;
+}
     
