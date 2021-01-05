@@ -73,9 +73,9 @@ section{
 footer p{
     text-align: center;
     background-color: orange;
-    margin-bottom: 0px;
+    height: 30px;
 }
-footer{
+footer {
     display: block;
 }
     
